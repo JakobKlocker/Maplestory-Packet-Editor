@@ -20,7 +20,7 @@ Ignoring Headers:
 
 Ignored Header Interface:
 
-<img width="510" alt="PacketEditor_1" src="https://user-images.githubusercontent.com/108685788/228879429-080f6302-b289-4433-990a-146de460b322.png">
+<img src="https://user-images.githubusercontent.com/108685788/228879429-080f6302-b289-4433-990a-146de460b322.png" Width="50%" Height="50%"/>
 
 Increasing Byte:
 
